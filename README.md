@@ -1,2 +1,2 @@
 # Socket-Based-Server-Client-CSharp
-This is a version of my Java sockey based server and client.
+This is a version of my Java socket based server and client.
