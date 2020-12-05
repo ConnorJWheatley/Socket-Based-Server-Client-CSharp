@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.AssemblyInfo.cs
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\bin\Debug\netcoreapp3.1\StockServer.exe
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\bin\Debug\netcoreapp3.1\StockServer.deps.json
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\bin\Debug\netcoreapp3.1\StockServer.runtimeconfig.json
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\bin\Debug\netcoreapp3.1\StockServer.runtimeconfig.dev.json
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\bin\Debug\netcoreapp3.1\StockServer.dll
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\bin\Debug\netcoreapp3.1\StockServer.pdb
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.dll
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.pdb
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockServer\obj\Debug\netcoreapp3.1\StockServer.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.exe
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.deps.json
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.json
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.dev.json
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.dll
+M:\vscode\BankExampleCS\BankClient\bin\Debug\netcoreapp3.1\BankClient.pdb
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.csprojAssemblyReference.cache
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfoInputs.cache
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfo.cs
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.csproj.CoreCompileInputs.cache
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.dll
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.pdb
+M:\vscode\BankExampleCS\BankClient\obj\Debug\netcoreapp3.1\BankClient.genruntimeconfig.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\bin\Debug\netcoreapp3.1\BankClient.exe
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\bin\Debug\netcoreapp3.1\BankClient.deps.json
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.json
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\bin\Debug\netcoreapp3.1\BankClient.runtimeconfig.dev.json
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\bin\Debug\netcoreapp3.1\BankClient.dll
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\bin\Debug\netcoreapp3.1\BankClient.pdb
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.AssemblyInfo.cs
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.dll
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.pdb
+C:\Users\Connor\Documents\University\Year 3\CE303\Assignment1\C#\StockClient\obj\Debug\netcoreapp3.1\BankClient.genruntimeconfig.cache
